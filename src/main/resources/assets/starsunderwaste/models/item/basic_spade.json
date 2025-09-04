@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "starsunderwaste:item/basic_spade_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "starsunderwaste:item/basic_spade_2d"
+    },
+    "ground": {
+      "parent": "starsunderwaste:item/basic_spade_2d"
+    },
+    "fixed": {
+      "parent": "starsunderwaste:item/basic_spade_2d"
+    }
+  }
+}

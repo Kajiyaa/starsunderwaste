@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "starsunderwaste:item/nullite_pickaxe_16"
+  }
+}

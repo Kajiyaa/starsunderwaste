@@ -1,0 +1,76 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "starsunderwaste:item/nullite_machete_32"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        -90,
+        260,
+        -40
+      ],
+      "translation": [
+        -1.0,
+        5.0,
+        0.0
+      ],
+      "scale": [
+        1.25,
+        1.25,
+        1.25
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -90,
+        260,
+        -40
+      ],
+      "translation": [
+        -1.0,
+        5.0,
+        0.0
+      ],
+      "scale": [
+        1.25,
+        1.25,
+        1.25
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        -100,
+        25
+      ],
+      "translation": [
+        -1.0,
+        2.0,
+        4.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        100,
+        -25
+      ],
+      "translation": [
+        -1.0,
+        2.0,
+        4.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

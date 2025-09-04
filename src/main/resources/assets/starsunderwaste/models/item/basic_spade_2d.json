@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "starsunderwaste:item/basic_spade_2d"
+  }
+}
